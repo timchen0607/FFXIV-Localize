@@ -1,0 +1,8 @@
+"0","TEXT_CMNDEFRETURNBELT_00721_TALK_ACTOR_01","冒険者ギルドでは、<hex:02100103>やむにやまれぬ事情で手放された品物を一時的に預かり、<hex:02100103>返還を希望する方にお渡ししています。"
+"1","TEXT_CMNDEFRETURNBELT_00721_TALK_Q1","どうする？"
+"2","TEXT_CMNDEFRETURNBELT_00721_TALK_A1","帯防具を返してもらう"
+"3","TEXT_CMNDEFRETURNBELT_00721_TALK_A2","帯防具について説明を聞く"
+"4","TEXT_CMNDEFRETURNBELT_00721_TALK_A3","やめる"
+"5","TEXT_CMNDEFRETURNBELT_00721_TALK_ACTOR_05","こちらでは、かつて独立した防具として存在していた、<hex:02100103>「帯防具」をお預かりしております。"
+"6","TEXT_CMNDEFRETURNBELT_00721_TALK_ACTOR_06","返還は無償でございますが、<hex:02100103>一度お返しした品をふたたび預かることはできませんので、<hex:02100103>その点は、お含みおきください。"
+"7","TEXT_CMNDEFRETURNBELT_00721_SYSTEM_07","あなたとリテイナーが所持していた帯防具は、<hex:02100103>あなたのホームワールドでのみ、引き取ることができます。<hex:02100103>どうぞご注意ください。"
