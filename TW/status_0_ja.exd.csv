@@ -1509,7 +1509,7 @@
 "1508","裂傷","風屬性持續傷害，體力逐漸流失","19021","0","16","1","2","17","0","False","False","False","False","False","False","False","False","False","10","0","False","False","100","0","False","0","False","5","False","0","0","0","False"
 "1509","減速","自動攻擊間隔延長，同時戰技與魔法的詠唱及冷卻時間也會延長","15009","5","0","1","2","13","0","False","False","False","False","False","False","False","False","False","50","0","False","False","15","0","False","0","False","0","False","0","0","0","False"
 "1510","睡眠","陷入沉睡，無法做出任何行動","15013","1","0","1","2","2","3","True","False","True","False","False","False","False","False","False","100","0","False","False","0","0","False","0","False","0","False","0","3","0","False"
-"1511","石化","手足被石化，無法做出任何行動","15001","85","0","1","2","6","1","True","False","True","False","False","False","True","False","False","100","0","False","False","0","0","False","0","False","0","False","0","0","0","False"
+"1511","石化","手足被石化，無法做出任何行動","15001","85","0","1","2","6","1","True","False","True","False","False","False","True","False","False","100","0","False","False","0","0","False","0","False","0","False","0","32","0","False"
 "1512","擊退無效","擊退與吸引效果無效","16824","0","0","1","2","17","0","False","False","False","False","False","False","False","True","True","50","0","False","False","0","0","False","0","False","0","False","0","0","0","False"
 "1513","眩暈","無法做出任何行動","15004","0","0","1","2","17","0","False","False","True","True","False","False","False","True","False","100","0","False","False","0","4","False","0","False","0","False","2","0","0","False"
 "1514","スリル・オブ・ウォー：効果","體力會隨時間逐漸恢復","14842","0","0","1","1","16","0","False","False","False","False","False","False","False","False","True","0","0","False","False","1000","0","True","0","False","0","False","0","0","0","False"
