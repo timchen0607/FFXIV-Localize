@@ -1,8 +1,0 @@
-"0","TEXT_CMNDEFHOUSINGSIGNBOARD_00135_NO_PERMIT_TO_BUY1","個人の「土地」を購入するには、費用となるギルのほかに、<hex:02100103>いずれかのクラスがレベル50に達している必要があります。"
-"1","TEXT_CMNDEFHOUSINGSIGNBOARD_00135_NO_PERMIT_TO_BUY2","また、所属しているグランドカンパニーの階級が、<hex:02100103>黒渦団の場合は「少甲士」、双蛇党の場合は「少牙士」、<hex:02100103>不滅隊の場合は「少闘士」以上である必要があります。"
-"2","TEXT_CMNDEFHOUSINGSIGNBOARD_00135_KUGANE_NOT_OPENED","現在、「シロガネ」は先行公開期間中となります。<hex:02100103>土地の販売開始まで、今しばらくお待ちください。"
-"3","TEXT_CMNDEFHOUSINGSIGNBOARD_00135_KUGANE_NOT_ARROWED_TO_BUY","「シロガネ」の土地を購入するには、<hex:02100103>「メインクエスト：紅蓮のリベレーター」の、<hex:02100103>「大洋を征く」を完了している必要があります。"
-"4","TEXT_CMNDEFHOUSINGSIGNBOARD_00135_ISHGARD_NOT_OPENED","現在、「エンピレアム」は先行公開期間中となります。<hex:02100103>土地の販売開始まで、今しばらくお待ちください。"
-"5","TEXT_CMNDEFHOUSINGSIGNBOARD_00135_ISHGARD_NOT_ARROWED_TO_BUY","「エンピレアム」の土地を購入するには、<hex:02100103>「メインクエスト：蒼天のイシュガルド」の、<hex:02100103>「最期の咆哮」を完了している必要があります。"
-"6","TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_LOTTED","<hex:022825FF0A506C6163654E616D65FF17022813FF0E5465727269746F727954797065E80206030103> 第<hex:022003E80303>区 <hex:022003E80403>番地の抽選に参加しました。<hex:02100103>応募番号は<hex:022003E80503>番です。<hex:02100103>結果は <hex:020703E80603><hex:022002DF03>/<hex:022002DE03>/<hex:022002DC03> <hex:022002DB03>:<hex:022402DA03> 以降に確認可能です。"
-"7","TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_REFUND_FULL_GIL","ギルが返還された場合、所持金が最大値を超えるため、<hex:02100103>返還されませんでした。<hex:02100103>所持金を減らしたうえで、再度、お試しください。"

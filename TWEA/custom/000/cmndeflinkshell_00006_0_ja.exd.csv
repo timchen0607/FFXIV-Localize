@@ -65,7 +65,7 @@
 "64","TEXT_CMNDEFLINKSHELL_00006_CHAT_GUIDE_003_SYS","也可以從通訊貝列表中選擇想要發言的通訊貝，<hex:02100103>點選次級指令中的「在此通訊貝中發言」來進行發言。"
 "65","TEXT_CMNDEFLINKSHELL_00006_LEADER_GUIDE_001","建立通訊貝的人會成為「管理員」，<hex:02100103>擁有邀請、刪除成員的權利。"
 "66","TEXT_CMNDEFLINKSHELL_00006_LEADER_GUIDE_002","另外，「管理員」可以選擇自己通訊貝中的成員，<hex:02100103>任命為「隊長」。"
-"67","TEXT_CMNDEFLINKSHELL_00006_LEADER_GUIDE_003","「隊長」擁有和「管理員」同樣的邀請、刪除成員的權利。<hex:02100103>可是說是「管理員」的助手。"
+"67","TEXT_CMNDEFLINKSHELL_00006_LEADER_GUIDE_003","「隊長」擁有和「管理員」同樣的邀請、刪除成員的權利。<hex:02100103>可以說是「管理員」的助手。"
 "68","TEXT_CMNDEFLINKSHELL_00006_LEAVE_GUIDE_001","可以隨時退出通訊貝。"
 "69","TEXT_CMNDEFLINKSHELL_00006_LEAVE_GUIDE_002_SYS","從通訊貝列表中選擇想要退出的通訊貝，<hex:02100103>點選次級指令中的「退出」，<hex:02100103>就可以退出通訊貝。"
 "70","TEXT_CMNDEFLINKSHELL_00006_LEAVE_GUIDE_003_SYS","如果想要退出自己擔任「管理員」的通訊貝，<hex:02100103>則需要提前將「管理員」的許可權轉讓給其他成員。"
