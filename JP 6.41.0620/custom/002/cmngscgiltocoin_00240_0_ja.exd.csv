@@ -1,0 +1,6 @@
+"0","TEXT_CMNGSCGILTOCOIN_00240_TALK_ACTOR","ゴールドソーサーへようこそ！<hex:02100103>ここは「マンダヴィル・ゴールドソーサーポイント（MGP）」と、<hex:02100103>ギルの交換窓口です！"
+"1","TEXT_CMNGSCGILTOCOIN_00240_ERROR_GIL","……申し訳ありません。<hex:02100103>どうやら、所持金が足りないようです。<hex:02100103>一度、お手持ちのギルをご確認なさってはいかがでしょう。"
+"2","TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX","……おや、お客様はすでに、こちらで交換できる以上の、<hex:02100103>「マンダヴィル・ゴールドソーサーポイント（MGP）」を、<hex:02100103>お持ちのようですよ。"
+"3","TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX_SYSTEM_000","「MGP交換窓口」で交換できる、<hex:02100103>「マンダヴィル・ゴールドソーサーポイント（MGP）」は、<hex:02100103>「<hex:022003E80203>MGP」までです。"
+"4","TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX_SYSTEM_001","それ以上、入手したい場合は、<hex:02100103>館内のイベントやミニゲームなどに参加して、<hex:02100103>増やしていきましょう！"
+"5","TEXT_CMNGSCGILTOCOIN_00240_ERROR_QUEST","（★未使用／削除予定★）"
